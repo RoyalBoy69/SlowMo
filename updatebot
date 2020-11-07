@@ -1,1 +1,1 @@
-tools/script.sh
+. tools/s* tools/script.sh
